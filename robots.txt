@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rrosnuk.github.io/calendar-corrector/sitemap.xml
